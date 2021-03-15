@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Rahuls66 aka Rahul Shah
-- 👀 I’m interested in Python Programming, Machine Learning, Data Visalization
-- 🌱 I’m currently explring Machine Learning 
-- 📫 You can reach me through Insatgram - @_rahulshah_
+

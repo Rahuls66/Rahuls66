@@ -4,5 +4,5 @@ Hey there! I am Rahul 👋
 - 👀 I’m interested in Python Programming, Machine Learning, Data Viz and SQL
 - 🌱 Currently exploring Machine Learning 
 - 📫 Connect with me on Instagram - @\_rahulshah\_ or @photosby_rahulshah_
-- 📫 Connect with me on LinkedIn - [LinkedIn] (www.linkedin.com/in/rahul-shah6)
+- 📫 Connect with me on LinkedIn - [LinkedIn](https://www.linkedin.com/in/rahul-shah6)
 

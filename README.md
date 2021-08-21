@@ -7,5 +7,5 @@ Hey there! I am Rahul 👋
 - 💻 Check out the Notebooks at [Kaggle](https://www.kaggle.com/rahulshah06)
 - 📚 Find my Code Snippets in GitHub Gists [Here](https://gist.github.com/Rahuls66)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Rahuls66)
+![Visitors](https://gpvc.arturio.dev/Rahuls66)
 

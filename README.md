@@ -6,3 +6,5 @@ Hey there! I am Rahul 👋
 - 🖊  Check out the Blogs - [Medium](https://rahulshah6.medium.com) and [Analytics Vidhya](https://www.analyticsvidhya.com/blog/author/rahul105/)
 - 💻 Check out the Notebooks at [Kaggle](https://www.kaggle.com/rahulshah06)
 - 📚 Find my Code Snippets in GitHub Gists [Here](https://gist.github.com/Rahuls66)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Rahuls66)

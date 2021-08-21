@@ -8,7 +8,5 @@ Hey there! I am Rahul 👋
 - 📚 Find my Code Snippets in GitHub Gists [Here](https://gist.github.com/Rahuls66)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Rahuls66)
-![GitHub Watchers](https://img.shields.io/github/watchers/Rahuls66/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Rahuls66/)
-
 ![Current Stats](https://github-readme-stats.vercel.app/api?username=Rahuls66&show_icons=true)
 

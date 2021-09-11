@@ -9,6 +9,6 @@ Hey there! I am Rahul 👋
 
 ![Visitors](https://gpvc.arturio.dev/Rahuls66)
 
-![Repository's Stats](https://github-readme-stats.vercel.app/api?username=Rahuls66&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahuls66&theme=dark&show_icons=true)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rahuls66&theme=dark)]

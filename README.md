@@ -11,4 +11,4 @@ Hey there! I am Rahul 👋
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahuls66&theme=dark&show_icons=true)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rahuls66&theme=dark)]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rahuls66&theme=dark)

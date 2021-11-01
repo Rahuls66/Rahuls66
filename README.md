@@ -9,10 +9,11 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahuls66&theme=dark&show_icons=true)
 
+![Visitors](https://gpvc.arturio.dev/Rahuls66)
 
 <h3>Where to Find Me:</h3>
 <p>
 <a href="https://www.linkedin.com/in/rahul-shah6" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://rahulshah6.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-![Visitors](https://gpvc.arturio.dev/Rahuls66)
+

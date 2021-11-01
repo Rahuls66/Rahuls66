@@ -2,20 +2,23 @@
 
 - 👀 I’m interested in Python Programming, Machine Learning, Data Viz, SQL, and Web Scraping.
 - 🌱 Currently Exploring Machine Learning and Deep Learning
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-shah6)
-- 🖊  Check out the Blogs - [Medium](https://rahulshah6.medium.com) and [Analytics Vidhya](https://www.analyticsvidhya.com/blog/author/rahul105/)
-- 💻 Check out the Notebooks at [Kaggle](https://www.kaggle.com/rahulshah06)
 - 📚 Find my Code Snippets in [GitHub Gists](https://gist.github.com/Rahuls66)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahuls66&theme=dark&show_icons=true)
 
 ![Visitors](https://gpvc.arturio.dev/Rahuls66)
 
-<h3>Where to Find Me:</h3>
+<h3>Find Me On:</h3>
 <p>
 <a href="https://www.linkedin.com/in/rahul-shah6" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://rahulshah6.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://www.analyticsvidhya.com/blog/author/rahul105/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> <a href="https://www.geeksforgeeks.org/pyspark-read-csv-file-into-dataframe/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/blog-999999?style=for-the-badge&logo=Blog&logoColor=black"/></a>
-  
+<a href="https://www.kaggle.com/rahulshah06" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
+</p>
+
+<h3>Read My Blogs On:</h3>
+<p>
+<a href="https://rahulshah6.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://www.analyticsvidhya.com/blog/author/rahul105/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="https://www.geeksforgeeks.org/pyspark-read-csv-file-into-dataframe/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/blog-999999?style=for-the-badge&logo=Blog&logoColor=black"/></a>
 </p>
 
 

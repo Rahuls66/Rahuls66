@@ -13,7 +13,9 @@
 
 <h3>Where to Find Me:</h3>
 <p>
-<a href="https://www.linkedin.com/in/rahul-shah6" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://rahulshah6.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://www.analyticsvidhya.com/blog/author/rahul105/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rahul-shah6" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://rahulshah6.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://www.analyticsvidhya.com/blog/author/rahul105/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> <a href="https://www.geeksforgeeks.org/pyspark-read-csv-file-into-dataframe/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/blog-999999?style=for-the-badge&logo=Blog&logoColor=black"/></a>
+  
 </p>
 
 

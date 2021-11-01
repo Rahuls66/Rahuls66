@@ -1,11 +1,11 @@
 Hey there! I am Rahul 👋
 
-- 👀 I’m interested in Python Programming, Machine Learning, Data Viz and SQL
-- 🌱 Currently exploring Machine Learning 
+- 👀 I’m interested in Python Programming, Machine Learning, Data Viz, SQL, and Web Scraping.
+- 🌱 Currently Exploring Machine Learning and Deep Learning
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-shah6)
 - 🖊  Check out the Blogs - [Medium](https://rahulshah6.medium.com) and [Analytics Vidhya](https://www.analyticsvidhya.com/blog/author/rahul105/)
 - 💻 Check out the Notebooks at [Kaggle](https://www.kaggle.com/rahulshah06)
-- 📚 Find my Code Snippets in GitHub Gists [Here](https://gist.github.com/Rahuls66)
+- 📚 Find my Code Snippets in [GitHub Gists](https://gist.github.com/Rahuls66)
 
 ![Visitors](https://gpvc.arturio.dev/Rahuls66)
 

@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Python Programming, Machine Learning, Data Viz, SQL, Big Data Technologies and Web Scraping.
 - 🌱 Currently Exploring Machine Learning and Deep Learning
-- 📚 Find my Code Snippets in [GitHub Gists](https://gist.github.com/Rahuls66)
+- 📚 Find my Code Snippets in [GitHub Gists](https://gist.github.com/Rahuls66).
 
 <h4>Find Me On:</h3>
 <p>
